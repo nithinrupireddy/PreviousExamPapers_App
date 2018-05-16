@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/picc"
+    tools:context="com.nithin.finalproject.cse.Cseactivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/cse"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Stream-1"
+            android:textStyle="bold"
+            android:fontFamily="cursive"
+            android:textSize="50sp"
+            android:layout_marginTop="45dp"
+            android:textAlignment="center"
+            android:textColor="@color/colorPrimary"/>
+
+        <TextView
+            android:id="@+id/em"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="45dp"
+            android:fontFamily="cursive"
+            android:text="Engineering Maths-1"
+            android:textAlignment="center"
+            android:textColor="@color/White"
+            android:textSize="50sp"
+            android:textStyle="bold" />
+
+
+        <TextView
+            android:id="@+id/c"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="48dp"
+            android:fontFamily="cursive"
+            android:text="C"
+            android:textAlignment="center"
+            android:textColor="@color/White"
+            android:textSize="50sp"
+            android:textStyle="bold" />
+
+
+        <TextView
+            android:id="@+id/physics"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="48dp"
+            android:fontFamily="cursive"
+            android:text="Physis"
+            android:textAlignment="center"
+            android:textColor="@color/White"
+            android:textSize="50sp"
+            android:textStyle="bold" />
+
+
+        <TextView
+            android:id="@+id/english"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="48dp"
+            android:fontFamily="cursive"
+            android:text="English"
+            android:textAlignment="center"
+            android:textColor="@color/White"
+            android:textSize="50sp"
+            android:textStyle="bold" />
+
+
+        <TextView
+            android:id="@+id/bel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="48dp"
+            android:fontFamily="cursive"
+            android:text="BEL"
+            android:textAlignment="center"
+            android:textColor="@color/White"
+            android:textSize="50sp"
+            android:textStyle="bold" />
+
+
+        <TextView
+            android:id="@+id/bme"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="48dp"
+            android:fontFamily="cursive"
+            android:text="BME"
+            android:textAlignment="center"
+            android:textColor="@color/White"
+            android:textSize="50sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/stream2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="45dp"
+            android:fontFamily="cursive"
+            android:text="Stream-2"
+            android:textAlignment="center"
+            android:textColor="@color/colorPrimary"
+            android:textSize="50sp"
+            android:textStyle="bold" />
+
+
+        <TextView
+            android:id="@+id/em2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="48dp"
+            android:fontFamily="cursive"
+            android:text="Engineering Maths-2"
+            android:textAlignment="center"
+            android:textColor="@color/White"
+            android:textSize="50sp"
+            android:textStyle="bold" />
+
+
+        <TextView
+            android:id="@+id/oop"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="48dp"
+            android:fontFamily="cursive"
+            android:text="OOP"
+            android:textAlignment="center"
+            android:textColor="@color/White"
+            android:textSize="50sp"
+            android:textStyle="bold" />
+
+
+        <TextView
+            android:id="@+id/chemistry"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="48dp"
+            android:fontFamily="cursive"
+            android:text="Chemistry"
+            android:textAlignment="center"
+            android:textColor="@color/White"
+            android:textSize="50sp"
+            android:textStyle="bold" />
+
+
+        <TextView
+            android:id="@+id/drawing"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="48dp"
+            android:fontFamily="cursive"
+            android:text="Engineering Drawing"
+            android:textAlignment="center"
+            android:textColor="@color/White"
+            android:textSize="50sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/bee"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="48dp"
+            android:fontFamily="cursive"
+            android:text="Bee"
+            android:textAlignment="center"
+            android:textColor="@color/White"
+            android:textSize="50sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/bem"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="48dp"
+            android:fontFamily="cursive"
+            android:text="Bem"
+            android:textAlignment="center"
+            android:textColor="@color/White"
+            android:textSize="50sp"
+            android:textStyle="bold" />
+
+
+
+
+
+    </LinearLayout>
+
+
+
+</ScrollView>

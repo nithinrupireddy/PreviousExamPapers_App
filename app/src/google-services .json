@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "193907904252",
+    "firebase_url": "https://scorehundred-team.firebaseio.com",
+    "project_id": "scorehundred-team",
+    "storage_bucket": "scorehundred-team.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193907904252:android:094f71ee164705c1",
+        "android_client_info": {
+          "package_name": "com.nithin.finalproject.Splash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193907904252-iv9a4l0a7dnnn963qgm06o471ectgbjb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBizFXmMnjdK7hChtX31HOgtff1NAPdk0A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

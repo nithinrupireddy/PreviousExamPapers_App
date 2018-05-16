@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/picc"
+    tools:context="com.nithin.finalproject.Branches.AllYears">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="8dp">
+
+
+        <TextView
+            android:id="@+id/firstyearcse"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="160dp"
+            android:text="First Year"
+            android:textAlignment="center"
+            android:textColor="@color/White"
+            android:textSize="30sp" />
+
+        <TextView
+            android:id="@+id/secondyearcse"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            android:text="    Second Year"
+            android:textAlignment="center"
+            android:textColor="@color/White"
+            android:textSize="30sp" />
+
+        <TextView
+            android:id="@+id/thirdyearcse"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            android:text="Third Year"
+            android:textAlignment="center"
+            android:textColor="@color/White"
+            android:textSize="30sp" />
+
+        <TextView
+            android:id="@+id/fourthyearcse"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            android:text="  Fourth Year"
+            android:textAlignment="center"
+            android:textColor="@color/White"
+            android:textSize="30sp" />
+
+    </LinearLayout>
+
+
+</ScrollView>
